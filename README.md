@@ -49,11 +49,12 @@ ___
 ### Demais curiosidades da minha trajetória
 
 - Comecei a trabalhar com 13 anos de idade
-- Nem sempre fui desenvolvedora, já trabalhei com vendas, caixa de loja, supermercado e clínica de medicina do trabalho
+- Nem sempre fui desenvolvedora, já trabalhei com vendas, caixa de loja, supermercado, fazendo adesivos de unha e clínica de medicina do trabalho
 - Tive meu primeiro computador com 10 anos de idade, e não tinha internet rs
 - Já ministrei cursos de introdução a informática para públicos diversos da comunidade, desde criança a idosos
 - Ministrei aulas de monitoria para outros alunos na faculdade, sobre lógica de programação e robótica
 - Sou vista na minha família como a menina que faz site e conserta a TV, mas não sei explicar o contrário rs
+- Gosto muito de lidar com pessoas, estudo bastante sobre liderança, mas amo a parte técnica, e não pretendo sair tão cedo dela
 
 ___
 ### Meus contatinhos. Por eles você consegue ver um pouco mais meu perfil profissional, e também entrar em contato comigo! 
@@ -62,6 +63,3 @@ ___
 <a href="mailto:contato.gabrielamc@gmail.com?subject=Olá%20Gabi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabymcarvalho?igsh=MTc4dXVnajlhcWswMA==)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gabimcarvalho)
-
-
-
