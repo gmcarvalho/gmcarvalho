@@ -4,7 +4,7 @@
 - 💡 Cursei Aprendiz em Elétrica Industrial no Senai de Arcos, MG
 - 🚀 Engenheira de Software e Team Lead na [Hotmart](https://hotmart.com/pt-br)
 - 📚 Tenho alguns cursos realizados como Arquitetura de Computadores, Aws Expert, Competências Comportamentais,entre outros
-- 🧠 Apaixonada por resolver pepinos, construir arquitetura escalável e fortalecer times com Agilidade e Cultura Dev.
+- 🧠 Apaixonada por Agilidade e Cultura Dev.
 - 🪂 Uma alucinada por esportes radicais
 - 🏋️ Crossfiteira apaixonada
 - 🤝 Amo trabalho em equipe s2
