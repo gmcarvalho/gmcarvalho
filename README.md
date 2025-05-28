@@ -7,7 +7,6 @@
 - 🧠 Apaixonada por Agilidade e Cultura Dev.
 - 🪂 Uma alucinada por esportes radicais
 - 🏋️ Crossfiteira apaixonada
-- 🤝 Amo trabalho em equipe s2
 
 ## Minha Jornada
 
@@ -80,7 +79,7 @@
 - Gosto muito de lidar com pessoas, estudo bastante sobre liderança, agilidade, cultura dev
 
 
-## Meus contatinhos. Por eles você consegue ver um pouco mais meu perfil profissional, e também entrar em contato comigo! 
+## Meus contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-mendonça-de-carvalho-63b46066/)
 <a href="mailto:contato.gabrielamc@gmail.com?subject=Olá%20Gabi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
