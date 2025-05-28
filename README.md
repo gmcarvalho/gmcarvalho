@@ -22,7 +22,7 @@
 - 💡 2008 - Vendedora | gestão de loja no Bazar reluz
 - 🎯 2007 - Minha primeira experiência profissional oficial no Comercial Corrêa
 
-___
+
 ### Minhas skills principais e ferramentas de uso no dia a dia
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,7 +40,7 @@ ___
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-___
+
 ### Outras tecnologias já trabalhadas e áreas de conhecimento
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -53,13 +53,13 @@ ___
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-___
+
 ### Sistema Operacional de uso frequente
 
 ![Apple-MacBook_Pro_2019](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-___
+
 ### Demais curiosidades da minha trajetória
 
 - Comecei a trabalhar com 13 anos de idade
@@ -70,7 +70,7 @@ ___
 - Sou vista na minha família como a menina que faz site e conserta a TV, mas não sei explicar o contrário rs
 - Gosto muito de lidar com pessoas, estudo bastante sobre liderança, agilidade, cultura dev
 
-___
+
 ### Meus contatinhos. Por eles você consegue ver um pouco mais meu perfil profissional, e também entrar em contato comigo! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-mendonça-de-carvalho-63b46066/)
