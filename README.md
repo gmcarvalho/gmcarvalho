@@ -1,13 +1,28 @@
-### Olá, sou Gabi Carvalho e vem comigo pra te contar um pouco de mim e da minha trajetória!! 
+### Quem sou eu?
 
 - 🎓 Sou formada em Ciência da Computação pela Universidade Fumec
 - 💡 Cursei Aprendiz em Elétrica Industrial no Senai de Arcos, MG
 - 🚀 Engenheira de Software e Team Lead na [Hotmart](https://hotmart.com/pt-br)
 - 📚 Tenho alguns cursos realizados como Arquitetura de Computadores, Aws Expert, Competências Comportamentais,entre outros
+- 🧠 Apaixonada por resolver pepinos, construir arquitetura escalável e fortalecer times com Agilidade e Cultura Dev.
 - 🪂 Uma alucinada por esportes radicais
 - 🏋️ Crossfiteira apaixonada
-- 📚 Atualmente estudando Inglês 
 - 🤝 Amo trabalho em equipe s2
+___
+
+## Minha Jornada
+
+- 🚀 2025 - Senior Software Engineer na Hotmart
+- 💡 2024 - Team Lead na Hotmart
+- 🔗 2021 - Backend Developer com foco em KYC
+- 🚀 2018 - Full Stack Developer na Squadra
+- 🔥 2017 - Full Stack Developer na AVSystemGeo
+- 🚀 2014 - Primeiro estágio na área, e contratação posterior como Desenvolvedora .Net
+- 🚀 2014 - Primeiros passos como monitora na faculdade e voluntária na comunidade
+- 🔥 2011 - Auxiliar administrativa na Semso - Serviço de Engenharia e Medicina do Trabalho
+- 💡 2008 - Vendedora | gestão de loja no Bazar reluz
+- 🎯 2007 - Minha primeira experiência profissional oficial no Comercial Corrêa
+
 ___
 ### Minhas skills principais e ferramentas de uso no dia a dia
 
@@ -54,7 +69,7 @@ ___
 - Já ministrei cursos de introdução a informática para públicos diversos da comunidade, desde criança a idosos
 - Ministrei aulas de monitoria para outros alunos na faculdade, sobre lógica de programação e robótica
 - Sou vista na minha família como a menina que faz site e conserta a TV, mas não sei explicar o contrário rs
-- Gosto muito de lidar com pessoas, estudo bastante sobre liderança, mas amo a parte técnica, e não pretendo sair tão cedo dela
+- Gosto muito de lidar com pessoas, estudo bastante sobre liderança, agilidade, cultura dev
 
 ___
 ### Meus contatinhos. Por eles você consegue ver um pouco mais meu perfil profissional, e também entrar em contato comigo! 
