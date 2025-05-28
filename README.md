@@ -8,7 +8,6 @@
 - 🪂 Uma alucinada por esportes radicais
 - 🏋️ Crossfiteira apaixonada
 - 🤝 Amo trabalho em equipe s2
-___
 
 ## Minha Jornada
 
