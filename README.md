@@ -40,6 +40,15 @@
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-10BEFF?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FF8C00?style=for-the-badge) 
+![Scrum](https://img.shields.io/badge/Scrum-0096D6?style=for-the-badge) 
+![Kanban](https://img.shields.io/badge/Kanban-4D90FE?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
+
 
 ## Outras tecnologias já trabalhadas e áreas de conhecimento
 
