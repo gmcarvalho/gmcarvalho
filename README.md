@@ -1,4 +1,4 @@
-### Quem sou eu?
+## Sobre mim
 
 - 🎓 Sou formada em Ciência da Computação pela Universidade Fumec
 - 💡 Cursei Aprendiz em Elétrica Industrial no Senai de Arcos, MG
@@ -23,7 +23,7 @@
 - 🎯 2007 - Minha primeira experiência profissional oficial no Comercial Corrêa
 
 
-### Minhas skills principais e ferramentas de uso no dia a dia
+## Minhas skills principais e ferraemntas do uso do dia a dia
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -41,7 +41,7 @@
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-### Outras tecnologias já trabalhadas e áreas de conhecimento
+## Outras tecnologias já trabalhadas e áreas de conhecimento
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -54,13 +54,13 @@
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Sistema Operacional de uso frequente
+## Sistema Operacional de uso frequente
 
 ![Apple-MacBook_Pro_2019](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-### Demais curiosidades da minha trajetória
+## Demais curiosidades da minha trajetória
 
 - Comecei a trabalhar com 13 anos de idade
 - Nem sempre fui desenvolvedora, já trabalhei com vendas, caixa de loja, supermercado, fazendo adesivos de unha e clínica de medicina do trabalho
@@ -71,7 +71,7 @@
 - Gosto muito de lidar com pessoas, estudo bastante sobre liderança, agilidade, cultura dev
 
 
-### Meus contatinhos. Por eles você consegue ver um pouco mais meu perfil profissional, e também entrar em contato comigo! 
+## Meus contatinhos. Por eles você consegue ver um pouco mais meu perfil profissional, e também entrar em contato comigo! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-mendonça-de-carvalho-63b46066/)
 <a href="mailto:contato.gabrielamc@gmail.com?subject=Olá%20Gabi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
